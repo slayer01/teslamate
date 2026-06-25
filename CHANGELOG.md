@@ -7,6 +7,7 @@
 ### Improvements and bug fixes
 
 - fix(webview): show charging finish time in browser local time (#5436 - @Ashok28)
+- refactor(nix,postgres): provision database declaratively, connect via socket (#5337 - @JakobLichterfeld)
 
 #### Build, CI, internal
 
