@@ -9,6 +9,7 @@
 - fix(webview): show charging finish time in browser local time (#5436 - @Ashok28)
 - refactor(nix,postgres): provision database declaratively, connect via socket (#5337 - @JakobLichterfeld)
 - fix(nix,maintenance): read RELEASE_COOKIE without sourcing the env file (#5337 - @JakobLichterfeld)
+- fix(nix,postgres): set role password safely for any value (#5337 - @JakobLichterfeld)
 
 #### Build, CI, internal
 
